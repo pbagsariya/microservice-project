@@ -1,0 +1,5 @@
+com\wipro\schoolservice\config\Config.class
+com\wipro\schoolservice\controller\SchoolDetailsController.class
+com\wipro\schoolservice\SchoolServiceApplication.class
+com\wipro\schoolservice\controller\SchoolDetailsController$1.class
+com\wipro\schoolservice\model\School.class

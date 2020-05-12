@@ -1,0 +1,5 @@
+com\wipro\studentservice\config\Config.class
+com\wipro\studentservice\model\Student.class
+com\wipro\studentservice\controller\StudentDetailsService.class
+com\wipro\studentservice\StudentServiceApplication.class
+com\wipro\studentservice\controller\StudentDetailsService$1.class
